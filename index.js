@@ -1,12 +1,12 @@
-const navbar = document.querySelector(".navbar");
+// const navbar = document.querySelector(".navbar");
 
-window.addEventListener("scroll", function () {
-  if (window.pageYOffset > 0) {
-    navbar.classList.add("navbar-after-scroll");
-  } else {
-    navbar.classList.remove("navbar-after-scroll");
-  }
-});
+// window.addEventListener("scroll", function () {
+//   if (window.pageYOffset > 0) {
+//     navbar.classList.add("navbar-after-scroll");
+//   } else {
+//     navbar.classList.remove("navbar-after-scroll");
+//   }
+// });
 
 // var carousel = new bootstrap.Carousel(multipleCardCarousel, {
 //   interval: false,
